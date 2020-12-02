@@ -4,10 +4,6 @@
   "monthEndAutoCharge": true,
   "devicePlatform": "ios",
   "coinAddPriority": 1,
-<<<<<<< HEAD
-  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.52"
-=======
   "skipDailyTask": 0,
-  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
->>>>>>> 225f2322181bb26ac284e33fcd97e49c38f207c5
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.52"
 }
